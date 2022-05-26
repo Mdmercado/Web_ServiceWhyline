@@ -1,0 +1,170 @@
+server iniciado en puerto 3000
+(node:9647) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:9647) [MONGODB DRIVER] Warning: the options [servers] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [caseTranslate] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [dbName] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [credentials] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [username] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the server/replset/mongos/db options are deprecated, all their options are supported at the top level of the options object [poolSize,ssl,sslValidate,sslCA,sslCert,sslKey,sslPass,sslCRL,autoReconnect,noDelay,keepAlive,keepAliveInitialDelay,connectTimeoutMS,family,socketTimeoutMS,reconnectTries,reconnectInterval,ha,haInterval,replicaSet,secondaryAcceptableLatencyMS,acceptableLatencyMS,connectWithNoPrimary,authSource,w,wtimeout,j,writeConcern,forceServerObjectId,serializeFunctions,ignoreUndefined,raw,bufferMaxEntries,readPreference,pkFactory,promiseLibrary,readConcern,maxStalenessSeconds,loggerLevel,logger,promoteValues,promoteBuffers,promoteLongs,domainsEnabled,checkServerIdentity,validateOptions,appname,auth,user,password,authMechanism,compression,fsync,readPreferenceTags,numberOfRetries,auto_reconnect,minSize,monitorCommands,retryWrites,retryReads,useNewUrlParser,useUnifiedTopology,serverSelectionTimeoutMS,useRecoveryToken,autoEncryption,driverInfo,tls,tlsInsecure,tlsinsecure,tlsAllowInvalidCertificates,tlsAllowInvalidHostnames,tlsCAFile,tlsCertificateFile,tlsCertificateKeyFile,tlsCertificateKeyFilePassword,minHeartbeatFrequencyMS,heartbeatFrequencyMS,directConnection,appName,maxPoolSize,minPoolSize,maxIdleTimeMS,waitQueueTimeoutMS]
+(node:9647) [MONGODB DRIVER] Warning: the options [mode] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [tags] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [hedge] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [preference] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [isValid] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [slaveOk] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [equals] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [toJSON] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [source] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [mechanism] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [0] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [1] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [2] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [3] is not supported
+(node:9647) [MONGODB DRIVER] Warning: the options [4] is not supported
+server iniciado en puerto 3000
+(node:5313) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:5313) [MONGODB DRIVER] Warning: the options [servers] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [caseTranslate] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [dbName] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [credentials] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [username] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the server/replset/mongos/db options are deprecated, all their options are supported at the top level of the options object [poolSize,ssl,sslValidate,sslCA,sslCert,sslKey,sslPass,sslCRL,autoReconnect,noDelay,keepAlive,keepAliveInitialDelay,connectTimeoutMS,family,socketTimeoutMS,reconnectTries,reconnectInterval,ha,haInterval,replicaSet,secondaryAcceptableLatencyMS,acceptableLatencyMS,connectWithNoPrimary,authSource,w,wtimeout,j,writeConcern,forceServerObjectId,serializeFunctions,ignoreUndefined,raw,bufferMaxEntries,readPreference,pkFactory,promiseLibrary,readConcern,maxStalenessSeconds,loggerLevel,logger,promoteValues,promoteBuffers,promoteLongs,domainsEnabled,checkServerIdentity,validateOptions,appname,auth,user,password,authMechanism,compression,fsync,readPreferenceTags,numberOfRetries,auto_reconnect,minSize,monitorCommands,retryWrites,retryReads,useNewUrlParser,useUnifiedTopology,serverSelectionTimeoutMS,useRecoveryToken,autoEncryption,driverInfo,tls,tlsInsecure,tlsinsecure,tlsAllowInvalidCertificates,tlsAllowInvalidHostnames,tlsCAFile,tlsCertificateFile,tlsCertificateKeyFile,tlsCertificateKeyFilePassword,minHeartbeatFrequencyMS,heartbeatFrequencyMS,directConnection,appName,maxPoolSize,minPoolSize,maxIdleTimeMS,waitQueueTimeoutMS]
+(node:5313) [MONGODB DRIVER] Warning: the options [mode] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [tags] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [hedge] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [preference] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [isValid] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [slaveOk] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [equals] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [toJSON] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [source] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [mechanism] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [0] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [1] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [2] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [3] is not supported
+(node:5313) [MONGODB DRIVER] Warning: the options [4] is not supported
+server iniciado en puerto 3000
+(node:23351) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+2021-06-22
+(node:23351) [MONGODB DRIVER] Warning: the options [servers] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [caseTranslate] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [dbName] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [credentials] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [username] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the server/replset/mongos/db options are deprecated, all their options are supported at the top level of the options object [poolSize,ssl,sslValidate,sslCA,sslCert,sslKey,sslPass,sslCRL,autoReconnect,noDelay,keepAlive,keepAliveInitialDelay,connectTimeoutMS,family,socketTimeoutMS,reconnectTries,reconnectInterval,ha,haInterval,replicaSet,secondaryAcceptableLatencyMS,acceptableLatencyMS,connectWithNoPrimary,authSource,w,wtimeout,j,writeConcern,forceServerObjectId,serializeFunctions,ignoreUndefined,raw,bufferMaxEntries,readPreference,pkFactory,promiseLibrary,readConcern,maxStalenessSeconds,loggerLevel,logger,promoteValues,promoteBuffers,promoteLongs,domainsEnabled,checkServerIdentity,validateOptions,appname,auth,user,password,authMechanism,compression,fsync,readPreferenceTags,numberOfRetries,auto_reconnect,minSize,monitorCommands,retryWrites,retryReads,useNewUrlParser,useUnifiedTopology,serverSelectionTimeoutMS,useRecoveryToken,autoEncryption,driverInfo,tls,tlsInsecure,tlsinsecure,tlsAllowInvalidCertificates,tlsAllowInvalidHostnames,tlsCAFile,tlsCertificateFile,tlsCertificateKeyFile,tlsCertificateKeyFilePassword,minHeartbeatFrequencyMS,heartbeatFrequencyMS,directConnection,appName,maxPoolSize,minPoolSize,maxIdleTimeMS,waitQueueTimeoutMS]
+(node:23351) [MONGODB DRIVER] Warning: the options [mode] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [tags] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [hedge] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [preference] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [isValid] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [slaveOk] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [equals] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [toJSON] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [source] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [mechanism] is not supported
+2021-06-22
+(node:23351) [MONGODB DRIVER] Warning: the options [0] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [1] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [2] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [3] is not supported
+(node:23351) [MONGODB DRIVER] Warning: the options [4] is not supported
+2021-06-25
+2021-06-22
+2021-06-22
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20210101
+20210101
+20210101
+20210101
+20200101
+20200101
+20200927
+20210101
+20210101
+20210101
+20210101
+20210101
+20210101
+20210919
+20210901
+2021-09-01
+20210901
+20210901
+20210901
+20210724
+server iniciado en puerto 3000
+(node:438) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:438) [MONGODB DRIVER] Warning: the options [servers] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [caseTranslate] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [dbName] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [credentials] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [username] is not supported
+(node:438) [MONGODB DRIVER] Warning: the server/replset/mongos/db options are deprecated, all their options are supported at the top level of the options object [poolSize,ssl,sslValidate,sslCA,sslCert,sslKey,sslPass,sslCRL,autoReconnect,noDelay,keepAlive,keepAliveInitialDelay,connectTimeoutMS,family,socketTimeoutMS,reconnectTries,reconnectInterval,ha,haInterval,replicaSet,secondaryAcceptableLatencyMS,acceptableLatencyMS,connectWithNoPrimary,authSource,w,wtimeout,j,writeConcern,forceServerObjectId,serializeFunctions,ignoreUndefined,raw,bufferMaxEntries,readPreference,pkFactory,promiseLibrary,readConcern,maxStalenessSeconds,loggerLevel,logger,promoteValues,promoteBuffers,promoteLongs,domainsEnabled,checkServerIdentity,validateOptions,appname,auth,user,password,authMechanism,compression,fsync,readPreferenceTags,numberOfRetries,auto_reconnect,minSize,monitorCommands,retryWrites,retryReads,useNewUrlParser,useUnifiedTopology,serverSelectionTimeoutMS,useRecoveryToken,autoEncryption,driverInfo,tls,tlsInsecure,tlsinsecure,tlsAllowInvalidCertificates,tlsAllowInvalidHostnames,tlsCAFile,tlsCertificateFile,tlsCertificateKeyFile,tlsCertificateKeyFilePassword,minHeartbeatFrequencyMS,heartbeatFrequencyMS,directConnection,appName,maxPoolSize,minPoolSize,maxIdleTimeMS,waitQueueTimeoutMS]
+(node:438) [MONGODB DRIVER] Warning: the options [mode] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [tags] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [hedge] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [preference] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [isValid] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [slaveOk] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [equals] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [toJSON] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [source] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [mechanism] is not supported
+20200927
+(node:438) [MONGODB DRIVER] Warning: the options [0] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [1] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [2] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [3] is not supported
+(node:438) [MONGODB DRIVER] Warning: the options [4] is not supported
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927
+20200927

@@ -1,0 +1,170 @@
+2021-04-08T15:22:40.916Z
+Dia  1
+20210409 20210410
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  2
+20210411 20210412
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  3
+20210413 20210414
+{"result":{"n":394,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":394,"n":394,"ok":1}
+insertados  394  documentos
+Dia  4
+20210415 20210416
+{"result":{"n":622,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":622,"n":622,"ok":1}
+insertados  622  documentos
+Dia  5
+20210417 20210418
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  6
+20210419 20210420
+{"result":{"n":212,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":212,"n":212,"ok":1}
+insertados  212  documentos
+Dia  7
+20210421 20210422
+{"result":{"n":475,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":475,"n":475,"ok":1}
+insertados  475  documentos
+Dia  8
+20210423 20210424
+{"result":{"n":146,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":146,"n":146,"ok":1}
+insertados  146  documentos
+Dia  9
+20210425 20210426
+{"result":{"n":58,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":58,"n":58,"ok":1}
+insertados  58  documentos
+Dia  10
+20210427 20210428
+{"result":{"n":278,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":278,"n":278,"ok":1}
+insertados  278  documentos
+Dia  11
+20210429 20210430
+{"result":{"n":448,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":448,"n":448,"ok":1}
+insertados  449  documentos
+Dia  12
+20210501 20210502
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  13
+20210503 20210504
+{"result":{"n":1042,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":1042,"n":1042,"ok":1}
+insertados  1042  documentos
+Dia  14
+20210505 20210506
+{"result":{"n":676,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":676,"n":676,"ok":1}
+insertados  668  documentos
+Dia  15
+20210507 20210508
+{"result":{"n":146,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":146,"n":146,"ok":1}
+insertados  146  documentos
+Dia  16
+20210509 20210510
+{"result":{"n":145,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":145,"n":145,"ok":1}
+insertados  146  documentos
+Dia  17
+20210511 20210512
+{"result":{"n":887,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":887,"n":887,"ok":1}
+insertados  887  documentos
+Dia  18
+20210513 20210514
+{"result":{"n":6,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":6,"n":6,"ok":1}
+insertados  3  documentos
+Dia  19
+20210515 20210516
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  20
+20210517 20210518
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+insertados  425  documentos
+Dia  21
+20210519 20210520
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+insertados  114  documentos
+Dia  22
+20210521 20210522
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+insertados  197  documentos
+Dia  23
+20210523 20210524
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  24
+20210525 20210526
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+insertados  124  documentos
+Dia  25
+20210527 20210528
+{"result":{"n":1,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":1,"n":1,"ok":1}
+insertados  706  documentos
+Dia  26
+20210529 20210530
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  27
+20210531 20210601
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  28
+20210602 20210603
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  29
+20210604 20210605
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  30
+20210606 20210607
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  31
+20210608 20210609
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  32
+20210610 20210611
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  33
+20210612 20210613
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  34
+20210614 20210615
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  35
+20210616 20210617
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  36
+20210618 20210619
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  37
+20210620 20210621
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  38
+20210622 20210623
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  39
+20210624 20210625
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  40
+20210626 20210627
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  41
+20210628 20210629
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  42
+20210630 20210701
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  43
+20210702 20210703
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  44
+20210704 20210705
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  45
+20210706 20210707
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  46
+20210708 20210709
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  47
+20210710 20210711
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  48
+20210712 20210713
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  49
+20210714 20210715
+{"result":{"n":0,"ok":1},"connection":{"id":0,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}
+Dia  50
+20210716 20210717
+{"result":{"n":0,"ok":1},"connection":{"id":20,"host":"localhost","port":27017},"deletedCount":0,"n":0,"ok":1}

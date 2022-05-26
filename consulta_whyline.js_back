@@ -1,0 +1,123 @@
+const request = require('request')
+
+const datos = require('./datos_whyline')
+const post_data = {
+ clientId: 'e967bb895957c8febeac3cddf830f5f9587db3fe',
+ clientSecret: '8b2d0916fae55da038a6e2b6780981d61a79fcdaad5f2b3032901262de10dffd9cf46dc19da8c9d5'
+
+
+}
+
+
+const CANT_DIAS = 60
+const DIAS_ITERACION = 1
+const INTERVAL_TIME = 100000 //5MIN
+
+const hoy = new Date() //hoy
+
+let inicio = hoy
+inicio.setDate( inicio.getDate() - CANT_DIAS ) // Hoy - cantidad de dias
+
+
+function armarStringFecha( fecha ){
+    let fechaStr = fecha.toISOString()
+    let y = fechaStr.substr(0,4)
+    let m = fechaStr.substr(5,2)
+    let d = fechaStr.substr(8,2)
+
+    return y+m+d
+}
+
+function consulta(desdeString,hastaString){
+    return new Promise(( resolve, reject) => {
+
+
+       
+
+        request({
+ 
+            url: 'https://api-enterprise.dev.whyline.com/auth/thirdparty',
+            method : 'POST',
+form : post_data,
+headers: {
+"Content-Type": "application/json"
+}
+       
+        }, async function (error, response, body) {
+if (error) { reject(error) }
+            var json_response = JSON.parse(body)
+console.log(json_response)
+            //LIMPIAR DATOS ANTERIORES
+            console.log(desdeString,hastaString)
+            await datos.borrarDesdeHasta(desdeString,hastaString)
+            //INSERTAR
+            //Primero agrego el campo fechaEmi para borrar mas facil
+
+            let data = json_response.object
+            for(let i = 0; i < data.length; i++){
+                data[i].fechaEmi = data[i].documento.fechaEmision.substring(6,10) + data[i].documento.fechaEmision.substring(3,5)+ data[i].documento.fechaEmision.substring(0,2)
+            }
+
+            if(data.length > 0)
+                await datos.insertarJSON(data)
+
+            resolve()
+        })
+    })
+}
+
+
+exports.ejecutarConsultas = async function (){
+
+    let actual = inicio
+    console.log(actual)
+    let counter = 0
+
+    const iteracion = async () => {
+        if( counter == CANT_DIAS) return;
+    
+            counter++
+            console.log('Dia ', counter )
+    
+            if(counter > 0)
+                actual.setDate( actual.getDate() + 1 )
+    
+    
+            let desdeString = armarStringFecha( actual )
+    
+            let hasta = actual
+            hasta.setDate( actual.getDate() + DIAS_ITERACION )
+    
+            let hastaString = armarStringFecha( hasta )
+    
+            actual = hasta
+    
+            try{
+                await consulta(desdeString,hastaString)
+            }   
+            catch(e){
+                console.error(e)
+            }
+    }
+
+    return new Promise( async (resolve,reject) => {
+        
+        await iteracion()//La primera la hago manualmente asi no espero..
+
+        setInterval( async () => { 
+            await iteracion()
+            if( counter == CANT_DIAS ) return resolve()
+
+        }, INTERVAL_TIME) 
+    })
+}
+
+
+
+
+
+
+
+
+
+

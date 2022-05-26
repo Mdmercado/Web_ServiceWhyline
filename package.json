@@ -1,0 +1,20 @@
+{
+  "name": "wep_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "forever": "^3.0.4",
+    "mongodb": "^3.6.6",
+    "node-gzip": "^1.1.2",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

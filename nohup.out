@@ -1,0 +1,32 @@
+2021-07-04T14:51:13.154Z
+Dia  1
+(node:693) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/muni_ssh/wep_service/consulta_infra.js:48:38)
+    at Request.self.callback (/usr/lib/nodejs/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/usr/lib/nodejs/request/request.js:1161:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/usr/lib/nodejs/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+(node:693) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:693) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+2021-07-04T15:06:23.160Z
+Dia  1
+(node:915) UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (/home/muni_ssh/wep_service/consulta_infra.js:48:38)
+    at Request.self.callback (/usr/lib/nodejs/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/usr/lib/nodejs/request/request.js:1161:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/usr/lib/nodejs/request/request.js:1083:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+(node:915) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:915) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+buscador/app.js: 1: buscador/app.js: Syntax error: "(" unexpected
+buscador/app.js: 1: buscador/app.js: Syntax error: "(" unexpected

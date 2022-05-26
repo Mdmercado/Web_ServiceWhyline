@@ -1,0 +1,2612 @@
+[
+	{
+		"id": 1154646,
+		"numero": "73740",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154639,
+		"numero": "73734",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154666,
+		"numero": "73761",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154669,
+		"numero": "73764",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154732,
+		"numero": "73821",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154685,
+		"numero": "73775",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154744,
+		"numero": "73832",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154743,
+		"numero": "73831",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154742,
+		"numero": "73830",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154739,
+		"numero": "73828",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154737,
+		"numero": "73826",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154660,
+		"numero": "73751",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154731,
+		"numero": "73820",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1149638,
+		"numero": "69349",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1154723,
+		"numero": "73812",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1155481,
+		"numero": "73405",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1154746,
+		"numero": "73834",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154747,
+		"numero": "73835",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154745,
+		"numero": "73833",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1149673,
+		"numero": "69271",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149675,
+		"numero": "69274",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149691,
+		"numero": "69277",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1154652,
+		"numero": "73745",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154649,
+		"numero": "73743",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154659,
+		"numero": "73752",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154665,
+		"numero": "73757",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154675,
+		"numero": "73770",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154673,
+		"numero": "73768",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1149646,
+		"numero": "69389",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149733,
+		"numero": "69386",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149783,
+		"numero": "69431",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149796,
+		"numero": "69511",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150496,
+		"numero": "69698",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149730,
+		"numero": "69595",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150494,
+		"numero": "69675",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150086,
+		"numero": "69821",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150532,
+		"numero": "69718",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150054,
+		"numero": "69793",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150534,
+		"numero": "69723",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1150553,
+		"numero": "69748",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150632,
+		"numero": "69800",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150088,
+		"numero": "69823",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150508,
+		"numero": "69826",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150698,
+		"numero": "70843",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150556,
+		"numero": "70741",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149982,
+		"numero": "69850",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150498,
+		"numero": "69854",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149575,
+		"numero": "70797",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1093951,
+		"numero": "20237",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1074894,
+		"numero": "5563",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1102903,
+		"numero": "28558",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1103122,
+		"numero": "28773",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1081709,
+		"numero": "8387",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1158167,
+		"numero": "72631",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1081469,
+		"numero": "8298",
+		"estado": "SENTENCIA MANUAL"
+	},
+	{
+		"id": 1084913,
+		"numero": "11417",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1085609,
+		"numero": "11713",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1085614,
+		"numero": "11718",
+		"estado": "ABSOLUCION"
+	},
+	{
+		"id": 1105088,
+		"numero": "30720",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1103488,
+		"numero": "29225",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1092004,
+		"numero": "17716",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1080690,
+		"numero": "6998",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1084851,
+		"numero": "11253",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1093926,
+		"numero": "20212",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1087368,
+		"numero": "14829",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1158552,
+		"numero": "72369",
+		"estado": "ABSOLUCION"
+	},
+	{
+		"id": 1085591,
+		"numero": "17211",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1098339,
+		"numero": "24233",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1149754,
+		"numero": "69395",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148363,
+		"numero": "64405",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148366,
+		"numero": "64408",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148426,
+		"numero": "64536",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149577,
+		"numero": "70812",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149572,
+		"numero": "70769",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149758,
+		"numero": "69408",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149589,
+		"numero": "70783",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149597,
+		"numero": "70763",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149697,
+		"numero": "69290",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149641,
+		"numero": "69374",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149995,
+		"numero": "69606",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1090771,
+		"numero": "16680",
+		"estado": "ABSOLUCION"
+	},
+	{
+		"id": 1158999,
+		"numero": "77796",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1159007,
+		"numero": "77797",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1149867,
+		"numero": "69497",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150072,
+		"numero": "69815",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1159008,
+		"numero": "77798",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1150100,
+		"numero": "69690",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150015,
+		"numero": "69692",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150547,
+		"numero": "69732",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149917,
+		"numero": "69549",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150085,
+		"numero": "69819",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150092,
+		"numero": "69662",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1159048,
+		"numero": "77799",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1159172,
+		"numero": "72354",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1150549,
+		"numero": "69737",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150528,
+		"numero": "69710",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150598,
+		"numero": "70631",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150599,
+		"numero": "70633",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1159205,
+		"numero": "74130",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150703,
+		"numero": "70870",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150628,
+		"numero": "69782",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150641,
+		"numero": "69759",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 561003,
+		"numero": "102",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1150647,
+		"numero": "69772",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150654,
+		"numero": "69766",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150651,
+		"numero": "69760",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150646,
+		"numero": "69770",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150708,
+		"numero": "70917",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148357,
+		"numero": "64400",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150004,
+		"numero": "69636",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148384,
+		"numero": "64425",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 881885,
+		"numero": "1177",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1150627,
+		"numero": "69779",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149763,
+		"numero": "69420",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1093429,
+		"numero": "19257",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1084245,
+		"numero": "10528",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1150027,
+		"numero": "69623",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150065,
+		"numero": "69798",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150025,
+		"numero": "69616",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1093353,
+		"numero": "19208",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1083679,
+		"numero": "9558",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1154736,
+		"numero": "73825",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1081108,
+		"numero": "7779",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1085434,
+		"numero": "16877",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1141322,
+		"numero": "63761",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1154688,
+		"numero": "73780",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154678,
+		"numero": "73760",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154718,
+		"numero": "73804",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154720,
+		"numero": "73799",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154728,
+		"numero": "73818",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154725,
+		"numero": "73814",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154715,
+		"numero": "73802",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154726,
+		"numero": "73816",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154696,
+		"numero": "73785",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154694,
+		"numero": "73787",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154735,
+		"numero": "73824",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153209,
+		"numero": "76253",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1160085,
+		"numero": "74479",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1153848,
+		"numero": "76239",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153847,
+		"numero": "76232",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153208,
+		"numero": "76246",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153845,
+		"numero": "76226",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153207,
+		"numero": "76221",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153844,
+		"numero": "76224",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153830,
+		"numero": "76228",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153862,
+		"numero": "76235",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153216,
+		"numero": "76223",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153868,
+		"numero": "76249",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153214,
+		"numero": "76219",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153861,
+		"numero": "76229",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153849,
+		"numero": "76247",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153211,
+		"numero": "76210",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153867,
+		"numero": "76244",
+		"estado": "APROBADA"
+	},
+	{
+		"id": 1153858,
+		"numero": "76300",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153857,
+		"numero": "76295",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153855,
+		"numero": "76292",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153852,
+		"numero": "76283",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153874,
+		"numero": "76270",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153871,
+		"numero": "76263",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153870,
+		"numero": "76260",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153869,
+		"numero": "76254",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153835,
+		"numero": "76256",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153834,
+		"numero": "76251",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153217,
+		"numero": "76371",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153840,
+		"numero": "76360",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153853,
+		"numero": "76358",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153218,
+		"numero": "76369",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153210,
+		"numero": "76365",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153846,
+		"numero": "76370",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153197,
+		"numero": "76419",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153213,
+		"numero": "76378",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153198,
+		"numero": "76418",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153801,
+		"numero": "76725",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153709,
+		"numero": "76641",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153693,
+		"numero": "76663",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153707,
+		"numero": "76633",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153710,
+		"numero": "76648",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153712,
+		"numero": "76660",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153752,
+		"numero": "76666",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153711,
+		"numero": "76654",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153695,
+		"numero": "76679",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153696,
+		"numero": "76689",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153785,
+		"numero": "76709",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153784,
+		"numero": "76703",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153789,
+		"numero": "76741",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153735,
+		"numero": "76752",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153796,
+		"numero": "76804",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153795,
+		"numero": "76796",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153738,
+		"numero": "76794",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153422,
+		"numero": "76917",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1153770,
+		"numero": "76815",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153793,
+		"numero": "76777",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153769,
+		"numero": "76790",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153794,
+		"numero": "76786",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153739,
+		"numero": "76814",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153798,
+		"numero": "76825",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153740,
+		"numero": "76823",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153448,
+		"numero": "76864",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1153782,
+		"numero": "76967",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153731,
+		"numero": "76979",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153781,
+		"numero": "76964",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152921,
+		"numero": "77160",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153757,
+		"numero": "76986",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153724,
+		"numero": "76996",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153160,
+		"numero": "77256",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153144,
+		"numero": "77255",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153125,
+		"numero": "77284",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153117,
+		"numero": "77279",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153116,
+		"numero": "77290",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153110,
+		"numero": "77269",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153121,
+		"numero": "77314",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153158,
+		"numero": "77362",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153152,
+		"numero": "77358",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153153,
+		"numero": "77357",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153151,
+		"numero": "77356",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153149,
+		"numero": "77354",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153148,
+		"numero": "77353",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153150,
+		"numero": "77355",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153123,
+		"numero": "77323",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153093,
+		"numero": "77316",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153164,
+		"numero": "77266",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153179,
+		"numero": "77261",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153180,
+		"numero": "77263",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153161,
+		"numero": "77257",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153178,
+		"numero": "77258",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153163,
+		"numero": "77262",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153162,
+		"numero": "77259",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153145,
+		"numero": "77260",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153146,
+		"numero": "77265",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153181,
+		"numero": "77267",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153899,
+		"numero": "77305",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153898,
+		"numero": "77301",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153896,
+		"numero": "77297",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153120,
+		"numero": "77304",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153914,
+		"numero": "77300",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153913,
+		"numero": "77302",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153169,
+		"numero": "77424",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1097873,
+		"numero": "24966",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153673,
+		"numero": "77631",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153685,
+		"numero": "77646",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1157836,
+		"numero": "72581",
+		"estado": "SENTENCIA MANUAL"
+	},
+	{
+		"id": 1153118,
+		"numero": "77406",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153155,
+		"numero": "77373",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153172,
+		"numero": "77395",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153909,
+		"numero": "77384",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153189,
+		"numero": "77410",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153132,
+		"numero": "77403",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153171,
+		"numero": "77398",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153133,
+		"numero": "77394",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153122,
+		"numero": "77392",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1152849,
+		"numero": "77177",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153102,
+		"numero": "77366",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153106,
+		"numero": "77367",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153089,
+		"numero": "77309",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153660,
+		"numero": "77700",
+		"estado": "ABSOLUCION"
+	},
+	{
+		"id": 1153097,
+		"numero": "77349",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152899,
+		"numero": "77190",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1154650,
+		"numero": "73732",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153886,
+		"numero": "77339",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154654,
+		"numero": "73746",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153156,
+		"numero": "77360",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153860,
+		"numero": "76309",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153889,
+		"numero": "77346",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153177,
+		"numero": "77317",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153154,
+		"numero": "77359",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153159,
+		"numero": "77363",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153890,
+		"numero": "77352",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153908,
+		"numero": "77320",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153904,
+		"numero": "77313",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153157,
+		"numero": "77361",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153900,
+		"numero": "77307",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153176,
+		"numero": "77324",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153859,
+		"numero": "76306",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153885,
+		"numero": "77375",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153922,
+		"numero": "77338",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154719,
+		"numero": "73809",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153924,
+		"numero": "77342",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153921,
+		"numero": "77337",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1154717,
+		"numero": "73808",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153920,
+		"numero": "77335",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153919,
+		"numero": "77334",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153891,
+		"numero": "77292",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153165,
+		"numero": "77270",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153894,
+		"numero": "77293",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153143,
+		"numero": "77289",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153188,
+		"numero": "77280",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153187,
+		"numero": "77413",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153923,
+		"numero": "77341",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153166,
+		"numero": "77272",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153140,
+		"numero": "77282",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153915,
+		"numero": "77327",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153918,
+		"numero": "77333",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153911,
+		"numero": "77295",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153906,
+		"numero": "77319",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153910,
+		"numero": "77328",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153902,
+		"numero": "77310",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153184,
+		"numero": "77276",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153190,
+		"numero": "77283",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153183,
+		"numero": "77273",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153182,
+		"numero": "77268",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153170,
+		"numero": "77294",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153167,
+		"numero": "77275",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153168,
+		"numero": "77277",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153139,
+		"numero": "77281",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153141,
+		"numero": "77286",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153131,
+		"numero": "77296",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153126,
+		"numero": "77288",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153127,
+		"numero": "77291",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153147,
+		"numero": "77371",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153850,
+		"numero": "76272",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153842,
+		"numero": "76288",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153841,
+		"numero": "76285",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153838,
+		"numero": "76275",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153833,
+		"numero": "76243",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153832,
+		"numero": "76240",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153831,
+		"numero": "76234",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153219,
+		"numero": "76237",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1102600,
+		"numero": "29041",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1108050,
+		"numero": "34215",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1133463,
+		"numero": "51027",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1104972,
+		"numero": "30629",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1116322,
+		"numero": "41696",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1108979,
+		"numero": "34419",
+		"estado": "ABSOLUCION"
+	},
+	{
+		"id": 1116901,
+		"numero": "42478",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1120583,
+		"numero": "44032",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1092478,
+		"numero": "18952",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1134058,
+		"numero": "53370",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1133749,
+		"numero": "53168",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1135928,
+		"numero": "59712",
+		"estado": "SENTENCIA MANUAL"
+	},
+	{
+		"id": 1123678,
+		"numero": "48113",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1139672,
+		"numero": "59405",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1129656,
+		"numero": "56157",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1125813,
+		"numero": "49982",
+		"estado": "SENTENCIA MANUAL"
+	},
+	{
+		"id": 1137132,
+		"numero": "56751",
+		"estado": "EN CONVENIO"
+	},
+	{
+		"id": 1148449,
+		"numero": "64435",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148342,
+		"numero": "64375",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148397,
+		"numero": "64476",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148454,
+		"numero": "64439",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148452,
+		"numero": "64437",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148453,
+		"numero": "64438",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148456,
+		"numero": "64449",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148458,
+		"numero": "64455",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149559,
+		"numero": "70745",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148380,
+		"numero": "64421",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148373,
+		"numero": "64414",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148461,
+		"numero": "64459",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148465,
+		"numero": "64453",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148468,
+		"numero": "64540",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148467,
+		"numero": "64478",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148378,
+		"numero": "64419",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148376,
+		"numero": "64417",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148463,
+		"numero": "64451",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149075,
+		"numero": "68953",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1149712,
+		"numero": "70715",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149710,
+		"numero": "70700",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149661,
+		"numero": "69287",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149711,
+		"numero": "70708",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148684,
+		"numero": "64206",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1148285,
+		"numero": "64325",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148288,
+		"numero": "64331",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148294,
+		"numero": "64329",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148306,
+		"numero": "64547",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148305,
+		"numero": "64546",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148286,
+		"numero": "64327",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148296,
+		"numero": "64337",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148304,
+		"numero": "64545",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148293,
+		"numero": "64326",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148433,
+		"numero": "64560",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148434,
+		"numero": "64561",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148427,
+		"numero": "64537",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148430,
+		"numero": "64557",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149604,
+		"numero": "69317",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149608,
+		"numero": "69333",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149717,
+		"numero": "69327",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149719,
+		"numero": "69339",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149775,
+		"numero": "69409",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149773,
+		"numero": "69405",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149774,
+		"numero": "69407",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149777,
+		"numero": "69415",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149771,
+		"numero": "69397",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149776,
+		"numero": "69412",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149564,
+		"numero": "70699",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149561,
+		"numero": "70759",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149565,
+		"numero": "70706",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149558,
+		"numero": "69284",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149825,
+		"numero": "69585",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149826,
+		"numero": "69591",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149563,
+		"numero": "70695",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149827,
+		"numero": "69594",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149986,
+		"numero": "69846",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149935,
+		"numero": "69581",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149936,
+		"numero": "69588",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149940,
+		"numero": "69604",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149944,
+		"numero": "69547",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149938,
+		"numero": "69597",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149884,
+		"numero": "69504",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149886,
+		"numero": "69513",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149882,
+		"numero": "69499",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149985,
+		"numero": "69847",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149988,
+		"numero": "69844",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150044,
+		"numero": "69665",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150047,
+		"numero": "69682",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1149987,
+		"numero": "69845",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150490,
+		"numero": "69697",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1140247,
+		"numero": "61474",
+		"estado": "PAGADO"
+	},
+	{
+		"id": 1143592,
+		"numero": "60454",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150668,
+		"numero": "70821",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150657,
+		"numero": "70801",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150674,
+		"numero": "70859",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150662,
+		"numero": "70770",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150664,
+		"numero": "70785",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150671,
+		"numero": "70844",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150666,
+		"numero": "70808",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150669,
+		"numero": "70828",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150658,
+		"numero": "70806",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1150667,
+		"numero": "70814",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1096270,
+		"numero": "22673",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1148277,
+		"numero": "64310",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148278,
+		"numero": "64311",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148279,
+		"numero": "64312",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148280,
+		"numero": "64314",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148281,
+		"numero": "64317",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148311,
+		"numero": "64346",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148332,
+		"numero": "64352",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148309,
+		"numero": "64342",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148276,
+		"numero": "64309",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148291,
+		"numero": "64316",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148292,
+		"numero": "64322",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148297,
+		"numero": "64340",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148420,
+		"numero": "64485",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148412,
+		"numero": "64470",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148418,
+		"numero": "64482",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148419,
+		"numero": "64483",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148403,
+		"numero": "64489",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148256,
+		"numero": "64523",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1148410,
+		"numero": "64468",
+		"estado": "ACTA VENCIDA"
+	},
+	{
+		"id": 1152864,
+		"numero": "77168",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152789,
+		"numero": "76534",
+		"estado": "PAGO A REVISAR"
+	},
+	{
+		"id": 1152897,
+		"numero": "77131",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152888,
+		"numero": "77153",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152992,
+		"numero": "76287",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152886,
+		"numero": "77184",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152894,
+		"numero": "77183",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152990,
+		"numero": "76220",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153021,
+		"numero": "76374",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153017,
+		"numero": "76377",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153014,
+		"numero": "76215",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153038,
+		"numero": "76375",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153054,
+		"numero": "76200",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153042,
+		"numero": "76238",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153050,
+		"numero": "76192",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153060,
+		"numero": "77380",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153048,
+		"numero": "76359",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153023,
+		"numero": "76227",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153022,
+		"numero": "76372",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153026,
+		"numero": "76382",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153028,
+		"numero": "76207",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153018,
+		"numero": "76376",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153074,
+		"numero": "77421",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153058,
+		"numero": "77385",
+		"estado": "DESCARGO PRESENTADO"
+	},
+	{
+		"id": 1153082,
+		"numero": "77419",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153076,
+		"numero": "77412",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153079,
+		"numero": "77409",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153075,
+		"numero": "77414",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153085,
+		"numero": "77408",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153084,
+		"numero": "77417",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153070,
+		"numero": "76205",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153081,
+		"numero": "77399",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153071,
+		"numero": "76206",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153135,
+		"numero": "77415",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153138,
+		"numero": "77278",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153186,
+		"numero": "76211",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153191,
+		"numero": "77138",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153136,
+		"numero": "77271",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153882,
+		"numero": "77322",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153201,
+		"numero": "76415",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153200,
+		"numero": "76404",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153196,
+		"numero": "76412",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153215,
+		"numero": "76214",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153204,
+		"numero": "76407",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153202,
+		"numero": "76405",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153206,
+		"numero": "76216",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153203,
+		"numero": "76406",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153822,
+		"numero": "76255",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153821,
+		"numero": "76248",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153808,
+		"numero": "76158",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153828,
+		"numero": "76225",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153827,
+		"numero": "76222",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153826,
+		"numero": "76267",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153820,
+		"numero": "76242",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153824,
+		"numero": "76262",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153819,
+		"numero": "76367",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153823,
+		"numero": "76259",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153806,
+		"numero": "77716",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153881,
+		"numero": "77391",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153866,
+		"numero": "76241",
+		"estado": "APROBADA"
+	},
+	{
+		"id": 1153879,
+		"numero": "77308",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153877,
+		"numero": "77299",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153878,
+		"numero": "77400",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153893,
+		"numero": "77312",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153892,
+		"numero": "77405",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153884,
+		"numero": "77336",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153883,
+		"numero": "77325",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1152975,
+		"numero": "76156",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152908,
+		"numero": "76163",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1152841,
+		"numero": "76182",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152842,
+		"numero": "76184",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152998,
+		"numero": "76201",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153815,
+		"numero": "76144",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153814,
+		"numero": "76177",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153812,
+		"numero": "76166",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153811,
+		"numero": "76164",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153810,
+		"numero": "76161",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1152997,
+		"numero": "76199",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152843,
+		"numero": "76186",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152844,
+		"numero": "76189",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1152999,
+		"numero": "76204",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153816,
+		"numero": "76176",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153000,
+		"numero": "76208",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153817,
+		"numero": "76154",
+		"estado": "ACTA"
+	},
+	{
+		"id": 1153002,
+		"numero": "76179",
+		"estado": "ACTA C Y M"
+	},
+	{
+		"id": 1153432,
+		"numero": "76843",
+		"estado": "PAGADO"
+	}
+]
