@@ -1,8 +1,9 @@
 const request = require("request");
 const fs = require("fs");
-const datos = require("./datos_whyline_subscription");
+
 const { ungzip } = require("node-gzip");
 const csvtojson = require("csvtojson");
+var dateFormat = require("dateformat");
 
 const post_data = {
   clientId: "e967bb895957c8febeac3cddf830f5f9587db3fe",
@@ -57,14 +58,9 @@ function consulta(fecha) {
   });
 }
 
-const descargar = async () => {
-  const fechas = [
-    "2021-08-23",
-    "2021-06-30",
-    "2021-07-01",
-    "2021-07-02",
-    "2021-07-03",
-  ];
+exports.descargar = async () => {
+  const fechas = [dateFormat(new Date() - 24 * 60 * 60 * 1000, "yyyy-mm-dd")];
+  console.log(fechas);
 
   for (let i = 0; i < fechas.length; i++) {
     try {
@@ -75,12 +71,11 @@ const descargar = async () => {
       let file_data = fs.readFileSync(csvFilePath);
       const decompressed = await ungzip(file_data);
 
-      csvtojson()
+      await csvtojson({ output: "json" })
         .fromString(decompressed.toString())
         .then(async (csvRows) => {
-          console.log(csvRows.length);
+          console.log(csvRows);
           await datos.insertarJSON(csvRows, "csv");
-
           //borrar archivo ya procesado
           fs.unlinkSync(csvFilePath);
         });
@@ -90,9 +85,3 @@ const descargar = async () => {
   }
   return console.log("listo");
 };
-
-descargar().then((_) => {
-  process.exit();
-});
-
-module.exports = descargar;

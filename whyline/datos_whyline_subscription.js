@@ -1,51 +1,49 @@
-const MongoClient = require('mongodb').MongoClient
+const MongoClient = require("mongodb").MongoClient;
 
 // URL de Conexion
-const url = 'mongodb://usrmongo:Jo4Bal3M0ng!@localhost:27017'
+const url = "mongodb://usrmongo:Jo4Bal3M0ng!@localhost:27017";
 
 // Database Name
-const dbName = 'whyline_subscription'
-const client = new MongoClient(url)
+const dbName = "whyline_subscription";
+const client = new MongoClient(url);
 
+exports.insertarJSON = async (data) => {
+  try {
+    await client.connect();
+    const db = client.db(dbName);
+    const collection = db.collection("whyline_subscription");
 
-exports.insertarJSON = async ( data ) => {
-    try{
-        await client.connect()
-        const db = client.db(dbName)
-        const collection = db.collection('whyline_subscription') 
-
-        try{
-            await collection.insertMany( data )
-            console.log("insertados ", data.length, " documentos")
-        }
-        catch(e){
-            console.error("Hubo un error al insertar")
-            console.error(e)
-        }
+    try {
+      collection.insertMany(data, function (err, res) {
+        if (err) throw err;
+        console.log("Exito" + res.insertedCount + " documents inserted");
+        client.close();
+      });
+    } catch (e) {
+      console.error("Hubo un error al insertar");
+      console.error(e);
     }
-    catch(e){
-        console.error("Error de conexión ", e)
+  } catch (e) {
+    console.error("Error de conexión ", e);
+  }
+};
+
+exports.borrarDesdeHasta = async (desde, hasta) => {
+  try {
+    await client.connect();
+    const db = client.db(dbName);
+    const collection = db.collection("whyline_subscription");
+
+    try {
+      let resu = await collection.deleteMany({
+        fechaEmi: { $gte: desde, $lte: hasta },
+      });
+      console.log(JSON.stringify(resu));
+    } catch (e) {
+      console.error("Hubo un error al borrar");
+      console.error(e);
     }
-}
-
-exports.borrarDesdeHasta = async (desde,hasta) => {
-    try{
-        await client.connect()
-        const db = client.db(dbName)
-        const collection = db.collection('whyline_subscription') 
-
-        try{
-            let resu = await collection.deleteMany( { fechaEmi : { $gte : desde, $lte : hasta } } )
-            console.log(JSON.stringify(resu))
-        }
-        catch(e){
-            console.error("Hubo un error al borrar")
-            console.error(e)
-        }
-    }
-    catch(e){
-        console.error("Error de conexión ", e)
-    }
-}
-
-
+  } catch (e) {
+    console.error("Error de conexión ", e);
+  }
+};
