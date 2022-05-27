@@ -4,7 +4,7 @@ const fs = require("fs");
 const { ungzip } = require("node-gzip");
 const csvtojson = require("csvtojson");
 var dateFormat = require("dateformat");
-
+const { insertarJSON } = require("./datos_whyline_subscription");
 const post_data = {
   clientId: "e967bb895957c8febeac3cddf830f5f9587db3fe",
   clientSecret:
@@ -20,7 +20,7 @@ function auth() {
         method: "POST",
         json: post_data,
       },
-      async function (error, response, body) {
+      async function (error, _response, body) {
         if (error) {
           reject(error);
         } else resolve(body.token);
@@ -70,18 +70,16 @@ exports.descargar = async () => {
 
       let file_data = fs.readFileSync(csvFilePath);
       const decompressed = await ungzip(file_data);
+      const fileString = decompressed.toString();
 
       await csvtojson({ output: "json" })
-        .fromString(decompressed.toString())
+        .fromString(fileString)
         .then(async (csvRows) => {
-          console.log(csvRows);
-          await datos.insertarJSON(csvRows, "csv");
-          //borrar archivo ya procesado
+          await insertarJSON(csvRows, "csv"); //borrar archivo ya procesado
           fs.unlinkSync(csvFilePath);
         });
     } catch (e) {
       console.error(e);
     }
   }
-  return console.log("listo");
 };
