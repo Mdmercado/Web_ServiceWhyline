@@ -1,13 +1,14 @@
 const MongoClient = require("mongodb").MongoClient;
 
 // URL de Conexion
-const url = "mongodb://usrmongo:Jo4Bal3M0ng!@localhost:27017";
+const url =
+  "mongodb://usrmongo:Jo4Bal3M0ng!@190.106.146.98:27017/whyline?authSource=admin";
 
 // Database Name
 const dbName = "whyline_subscription";
-const client = new MongoClient(url);
+const client = new MongoClient(url, { useUnifiedTopology: true });
 
-exports.insertarJSON = async (data) => {
+module.exports.insertarJSON = async (data) => {
   try {
     await client.connect();
     const db = client.db(dbName);
