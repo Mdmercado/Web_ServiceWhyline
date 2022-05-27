@@ -11,6 +11,7 @@ El WS tiene varias funciones, una de las mas importantes se trata de consultar l
 ## Arbol de docs
 
 wep_service => whyline => app_whyline.js es el script a correr para extraer las encuestas del dia anterior.
+wep_service => whyline => app_whyline_subscriptions.js es el script a correr para extraer los turnos del dia anterior.
 
 ### Documentacion/repo de ayuda
 
