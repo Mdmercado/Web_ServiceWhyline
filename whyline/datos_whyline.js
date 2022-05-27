@@ -13,12 +13,9 @@ const insertarJSON = async (data) => {
   try {
     await client.connect();
     const db = client.db(dbName);
-    console.log("entra a try conex");
     try {
-      console.log("entra al try");
       db.collection(collection_name).insertMany(data, function (err, res) {
         if (err) throw err;
-        console.log(res);
         console.log(res.insertedCount + " documents inserted");
         client.close();
       });
