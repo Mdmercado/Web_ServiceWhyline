@@ -45,7 +45,7 @@ function consulta(fecha) {
             "&type=subscription",
           method: "GET",
         },
-        async function (error, response, body) {
+        async function (error, _response, body) {
           if (error) {
             reject(error);
           } else resolve(body);
@@ -75,7 +75,14 @@ exports.descargar = async () => {
       await csvtojson({ output: "json" })
         .fromString(fileString)
         .then(async (csvRows) => {
-          await insertarJSON(csvRows, "csv"); //borrar archivo ya procesado
+          if (csvRows.length > 0) {
+            await insertarJSON(csvRows, "csv");
+          } else {
+            console.log(
+              "No se encontraron registros, ¡no hay nada que guardar!"
+            );
+          }
+          //borrar archivo ya procesado
           fs.unlinkSync(csvFilePath);
         });
     } catch (e) {

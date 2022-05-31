@@ -35,7 +35,7 @@ function consulta(fecha) {
   return new Promise(async (resolve, reject) => {
     try {
       const token = await auth();
-      //console.log(token);
+      console.log(token);
 
       request(
         {
@@ -63,6 +63,7 @@ function consulta(fecha) {
 const descargar = async function () {
   ///const fechas=  new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
   const fechas = [dateFormat(new Date() - 24 * 60 * 60 * 1000, "yyyy-mm-dd")];
+
   console.log(fechas);
 
   for (let i = 0; i < fechas.length; i++) {
@@ -78,8 +79,13 @@ const descargar = async function () {
         await csvtoJson({ output: "json" })
           .fromString(fileString)
           .then(async (csvRows) => {
-            console.log(csvRows);
-            await insertarJSON(csvRows, "csv");
+            if (csvRows.length > 0) {
+              await insertarJSON(csvRows, "csv");
+            } else {
+              console.log(
+                "No se encontraron registros, ¡no hay nada que guardar!"
+              );
+            }
             fs.unlinkSync(csvFilePath);
           });
       } catch (error) {

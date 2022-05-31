@@ -16,7 +16,7 @@ const insertarJSON = async (data) => {
     try {
       db.collection(collection_name).insertMany(data, function (err, res) {
         if (err) throw err;
-        console.log(res.insertedCount + " documents inserted");
+        console.log("Exito " + res.insertedCount + " documentos insertados");
         client.close();
       });
     } catch (e) {
