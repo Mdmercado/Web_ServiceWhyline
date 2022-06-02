@@ -8,7 +8,7 @@ const url =
 
 // Database Name
 const dbName = "whyline";
-const client = new MongoClient(url, { useNewUrlParser: true });
+const client = new MongoClient(url, { useUnifiedTopology: true });
 const collection_name = "whyline"; //Nombre de la colección ( o "tabla")
 
 exports.consulta = async (request, response) => {

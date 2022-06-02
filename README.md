@@ -2,11 +2,11 @@
 
 ## Consideraciones a tomar en cuenta
 
-Este WebService esta realizado con nodeJs integrando mongoDB como base datos no ralcional.
+Este WebService esta realizado con nodeJs integrando mongoDB como base datos no relacional.
 
 ## Idea General del sistema
 
-El WS tiene varias funciones, una de las mas importantes se trata de consultar la api de whyline (cambiando el type devuelve encuestas o turnos(subscriptions)). De esta manera se le pasa una fecha especifica a al api y entrega datos relacionado a ese dia, la respuesta del servicio es en formato comprimido csv y .gz. El algoritmo descomprime el archivo con los datos csv, luego lo pasamos a objeto json finalmente se inserta en la base de datos mongo db propia de municipalidad SN.
+El WS tiene varias funciones, una de las mas importantes se trata de consultar la api de whyline (cambiando el type devuelve encuestas o turnos(subscriptions)). De esta manera se le pasa una fecha especifica a la api y entrega datos relacionado a ese dia, la respuesta del servicio es en formato comprimido csv y .gz. El algoritmo descomprime el archivo con los datos csv, luego lo pasamos a objeto json finalmente se inserta en la base de datos mongo db propia de municipalidad SN.
 
 ## Arbol de docs
 
