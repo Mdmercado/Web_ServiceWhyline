@@ -29,7 +29,7 @@ exports.consulta = async (request, response) => {
 
     try {
       let results = await collection.find(query).toArray(); //Hago la busqueda con la funcion find, luego convierto a array
-      response.json(results.length); //Mandamos la respuesta con el JSON.
+      response.json(results); //Mandamos la respuesta con el JSON.
     } catch (e) {
       console.error("Hubo un error al leer la colección ", collection_name);
       console.error(e);
