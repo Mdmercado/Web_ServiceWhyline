@@ -5,7 +5,7 @@ const url =
   "mongodb://usrmongo:Jo4Bal3M0ng!@190.106.146.98:27017/whyline?authSource=admin";
 
 // Database Name
-const dbName = "whyline_subscription";
+const dbName = "whyline";
 const client = new MongoClient(url, { useUnifiedTopology: true });
 const collection_name = "whyline_subscription"; //Nombre de la colección ( o "tabla")
 
@@ -15,6 +15,7 @@ exports.consulta = async (request, response) => {
     await client.connect();
     const db = client.db(dbName);
     const collection = db.collection(collection_name);
+    console.log("turnos");
     // console.error(request.params.desde);
 
     //        const query = {} //Cuando se hace find con query vacía equivale a hacer SELECT * en sql
@@ -34,9 +35,10 @@ exports.consulta = async (request, response) => {
       console.error("Hubo un error al leer la colección ", collection_name);
       console.error(e);
     }
-
-    //        client.close()//Importante cerrar la conexión una vez no la precisamos mas
   } catch (e) {
     console.error("Error de conexión ", e);
+  } finally {
+    console.log("finally conex");
+    await client.close();
   }
 };

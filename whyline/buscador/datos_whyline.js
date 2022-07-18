@@ -19,7 +19,7 @@ exports.consulta = async (request, response) => {
     const db = client.db(dbName);
     const collection = db.collection(collection_name);
 
-    console.log("adentro");
+    console.log("encuestas");
     //        const query = {} //Cuando se hace find con query vacía equivale a hacer SELECT * en sql
     //      const query_por_color = { color : 'negro'} //Si usas esta, busca por el campo color.. como un "where color = negro"
     const query = {
@@ -36,9 +36,10 @@ exports.consulta = async (request, response) => {
       console.error("Hubo un error al leer la colección ", collection_name);
       console.error(e);
     }
-
-    //        client.close()//Importante cerrar la conexión una vez no la precisamos mas
   } catch (e) {
     console.error("Error de conexión ", e);
+  } finally {
+    console.log("finally conex");
+    await client.close();
   }
 };
