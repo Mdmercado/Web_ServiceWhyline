@@ -9,7 +9,7 @@ app.use(bodyParser.json({ limit: "40000MB" }));
 
 // index routes
 app.get("/", (_req, res) => {
-  res.send("Hello World!");
+  res.send("Hello World! whyline API");
 });
 //Rutas API buscador
 app.get("/whyline/:desde/:hasta", datos_whyline.consulta);
