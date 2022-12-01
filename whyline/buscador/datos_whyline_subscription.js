@@ -5,7 +5,7 @@ const url =
   "mongodb://usrmongo:Jo4Bal3M0ng!@190.106.146.98:27017/whyline?authSource=admin";
 
 // Database Name
-const dbName = "whyline";
+const dbName = "whyline_subscription";
 const client = new MongoClient(url, { useUnifiedTopology: true });
 const collection_name = "whyline_subscription"; //Nombre de la colección ( o "tabla")
 
@@ -37,8 +37,9 @@ exports.consulta = async (request, response) => {
     }
   } catch (e) {
     console.error("Error de conexión ", e);
-  } finally {
-    console.log("finally conex");
-    await client.close();
   }
+  // } finally {
+  //   console.log("finally conex");
+  //   await client.close();
+  // }
 };

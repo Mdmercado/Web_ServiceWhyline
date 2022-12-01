@@ -38,8 +38,8 @@ exports.consulta = async (request, response) => {
     }
   } catch (e) {
     console.error("Error de conexión ", e);
-  } finally {
-    console.log("finally conex");
-    await client.close();
-  }
+  } //finally {
+  //   console.log("finally conex");
+  //   await client.close();
+  // }
 };
